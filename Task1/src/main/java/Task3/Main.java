@@ -12,7 +12,7 @@ public class Main
 
         Building house = new Building(3, 2, 3, true);
         //how do I instantiate Buildings correctly? What can be done to make the first parameter right?
-        
+
 
     }
 }
